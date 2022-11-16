@@ -7,6 +7,7 @@ Github Actions 관련 실습 진행
 
 
 > 참고
-[GitHub Actions Docs](https://docs.github.com/en/actions/learn-github-actions/understanding-github-actions)
-[Github Actions 핵심 개념](https://www.daleseo.com/github-actions-basics/)        
-[GitHub Actions의 '체크아웃' 액션이란?](https://www.daleseo.com/github-actions-checkout/)    
+> 
+[GitHub Actions Docs](https://docs.github.com/en/actions/learn-github-actions/understanding-github-actions)     
+[Github Actions 핵심 개념](https://www.daleseo.com/github-actions-basics/)           
+[GitHub Actions의 '체크아웃' 액션이란?](https://www.daleseo.com/github-actions-checkout/)       
