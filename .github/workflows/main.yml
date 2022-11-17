@@ -1,7 +1,11 @@
 name: learn-github-actions
 run-name: ${{ github.actor }} is learning GitHub Actions
 # github 'push' 이벤트가 발생할 때 실행
-on: [push]
+# on: [push]
+on:
+  push:
+    branches:
+        - main
 jobs:
   github-actions-demo-job:
     runs-on: ubuntu-latest
