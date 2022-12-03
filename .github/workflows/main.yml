@@ -4,7 +4,7 @@ run-name: ${{ github.actor }} is learning GitHub Actions
 # on: [push]
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "1 0 * * *"
   push:
     branches:
         - main
